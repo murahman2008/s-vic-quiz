@@ -19,7 +19,3 @@ To run the server
 2. run [node index.js] - this will turn the server on and the server should be listening to port 5000 / whichever the port being assigned to on index.js
 
 3. access the endpoints from the browser
-
-For any queries or question please contact me on murahman2008@gmail.com / 04 3333 2493
-
-thanks...
